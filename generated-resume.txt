@@ -1,0 +1,7 @@
+Name: Kartik Sharma
+ Email: kartiksharma9548@gmail.com
+ Template: Template 1
+ Education: Undergraduate
+ Experience: fresher
+ Skills: Core Java , clanguage, DSA 
+ Language: English, Hindi
